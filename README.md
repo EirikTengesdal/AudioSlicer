@@ -51,17 +51,6 @@ To test the script and reproduce the audio output files, the following file comb
   * OS03.wav
   * OS04.wav
   * OS06.wav
-  * OS07.wav### About the AudioSlicer.py script parameters
-This general version is stripped-down. The TXT file has stored Begin_Time and End_Time in the appropriate FFmpeg format HH:MM:SS.ms, and provides the audio filenames and UniqueNumb.
-
-To test the script and reproduce the audio output files, the following file combination from the repository can be used (TXT and WAV files in input folder):
-* AudioSlicer.py
-* TXT file
-  * slicelist.txt
-* Audio files (here with Audacity® generated tones)
-  * OS03.wav
-  * OS04.wav
-  * OS06.wav
   * OS07.wav
 
 ### Software
