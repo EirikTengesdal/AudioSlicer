@@ -12,7 +12,7 @@ __version__ = "1.0.0"
 __email__ = ["eirik@tengesdal.name", "eirik.tengesdal@iln.uio.no"]
 
 # Created by Eirik Tengesdal, with help from Marcel Moura, released 21.01.2022. ET had the overall responsibility for
-# the script. MM helped with defining the convert() function.
+# the script.
 
 import os
 import glob
