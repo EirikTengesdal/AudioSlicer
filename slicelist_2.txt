@@ -1,0 +1,9 @@
+Informant	UniqueNumb	Begin_Time_ss_msec	End_Time_ss_msec	Type	Sentence	Pair	Sex
+OS03	1130	158.98	162.08	Read	Den nye maleren ryddet opp på kjøkkenet i går.	SP	M
+OS04	1130	98.367	101.268	Read	Den nye maleren ryddet opp på kjøkkenet i går.	SP	M
+OS06	1130	43.491	46.675	Read	Den nye maleren ryddet opp på kjøkkenet i går.	SP	M
+OS07	1130	154.429	158.62	Read	Den nye maleren ryddet opp på kjøkkenet i går.	SP	M
+OS03	1131	153.639	155.879	Read	Hun ryddet opp på kjøkkenet i går.	SP	M
+OS04	1131	130.369	132.687	Read	Hun ryddet opp på kjøkkenet i går.	SP	M
+OS06	1131	78.179	80.531	Read	Hun ryddet opp på kjøkkenet i går.	SP	M
+OS07	1131	183.434	188.418	Read	Hun ryddet opp på kjøkkenet i går.	SP	M
