@@ -22,6 +22,19 @@ To use the script, you must:
 ## About the scripts
 We provide both the original script and a more general one. The original script was created to generate audio recordings for use in a prosodic analysis project based on data from [Nordic Word Order Database](https://www.hf.uio.no/iln/english/about/organization/text-laboratory/projects/nwd/index.html). The original script contains several tailored details that are appropriate for the purpose of that project, and can serve as a reference if you want to tailor it to your own project. The general script has been stripped down to a minimum.
 
+### About the AudioSlicer.py script parameters
+This general version is stripped-down. The TXT file has stored Begin_Time and End_Time in the appropriate FFmpeg format HH:MM:SS.ms, and provides the audio filenames and UniqueNumb.
+
+To test the script and reproduce the audio output files, the following file combination from the repository can be used (TXT and WAV files in input folder):
+* AudioSlicer.py
+* TXT file
+  * slicelist.txt
+* Audio files (here with Audacity® generated tones)
+  * OS03.wav
+  * OS04.wav
+  * OS06.wav
+  * OS07.wav
+
 ### About the AudioSlicer_NWD.py script parameters
 The original script sets out to slice audio files that are relevant for specific research purposes drawing on experimental data. Here, the script sets out to output separate audio files corresponding to experimental items which are prespecified with the categories of Informant (participant ID), UniqueNumb (experimental item ID), Begin_Time_ss_msec (start timestamp), End_Time_ss_msec (end timestamp), Type (experimental category: either "Read" or "Produce"), Sentence (experimental category: transcription of produced sentence), Pair (experimental linguistic category: e.g., "S(ubject)P(article)"), and Sex (participant category).
 
@@ -34,19 +47,6 @@ To test the script and reproduce the audio output files, the following file comb
 * TXT files (here two separate files based on two different Pair-categories, to illustrate that it is possible this way)
   * slicelist_1.txt
   * slicelist_2.txt (Sentence and timestamps non–authentic)
-* Audio files (here with Audacity® generated tones)
-  * OS03.wav
-  * OS04.wav
-  * OS06.wav
-  * OS07.wav
-
-### About the AudioSlicer.py script parameters
-This general version is stripped-down. The TXT file has stored Begin_Time and End_Time in the appropriate FFmpeg format HH:MM:SS.ms, and provides the audio filenames and UniqueNumb.
-
-To test the script and reproduce the audio output files, the following file combination from the repository can be used (TXT and WAV files in input folder):
-* AudioSlicer.py
-* TXT file
-  * slicelist.txt
 * Audio files (here with Audacity® generated tones)
   * OS03.wav
   * OS04.wav
