@@ -95,7 +95,7 @@ Part of this work has been funded by the Research Council of Norway project *Var
 
 Licensed under the [MIT License](LICENSE).
 
-## Contact
+## Authors
 Eirik Tengesdal   
 Department of Linguistics and Scandinavian Studies, University of Oslo   
 eirik.tengesdal@iln.uio.no / eirik@tengesdal.name   
@@ -103,5 +103,3 @@ ORCID iD: [0000-0003-0599-8925](https://orcid.org/0000-0003-0599-8925)
 
 Marcel Moura   
 Department of Physics, University of Oslo   
-marcel.moura@fys.uio.no   
-ORCID iD: [0000-0002-4188-3220](https://orcid.org/0000-0002-4188-3220)
