@@ -4,6 +4,8 @@ authors:
 - family-names: "Tengesdal"
   given-names: "Eirik"
   orcid: "https://orcid.org/0000-0003-0599-8925"
+- family-names: "Moura"
+  given-names: "Marcel"
 title: "AudioSlicer for Python"
 version: 1.0.0
 doi: https://doi.org/10.5281/zenodo.5889527
