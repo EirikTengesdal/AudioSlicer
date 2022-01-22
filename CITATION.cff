@@ -8,6 +8,6 @@ authors:
   given-names: "Marcel"
 title: "AudioSlicer for Python"
 version: 1.0.0
-doi: https://doi.org/10.5281/zenodo.5889527
+doi: 10.5281/zenodo.5889527
 date-released: 2022-01-22
 url: "https://github.com/EirikTengesdal/AudioSlicer"
