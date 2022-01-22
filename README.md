@@ -72,16 +72,16 @@ The following software has been used in the making of this script and the audio 
 ## Citation information
 Please cite the script if you use it. The following citation example could be used (but it should be customised according to relevant citation style in academic contexts):
 
-Tengesdal, Eirik and Moura, Marcel. 2022. AudioSlicer for Python (Version 1.0.0). [Software]. URL: https://github.com/EirikTengesdal/AudioSlicer
+Tengesdal, Eirik and Moura, Marcel. 2022. AudioSlicer for Python (Version 1.0.0). [Software]. DOI: https://doi.org/10.5281/zenodo.5889527
 
 Example of BibTeX entry:
 ```
 @software{Tengesdal_Moura_AudioSlicer_2022,
     author	= {Tengesdal, Eirik and Moura, Marcel},
     title	= {{AudioSlicer for Python}},
-    url		= {https://github.com/EirikTengesdal/AudioSlicer},
     version	= {1.0.0},
-    year	= {2022}
+    year	= {2022},
+    doi		= {https://doi.org/10.5281/zenodo.5889527}
 }
 ```
 
