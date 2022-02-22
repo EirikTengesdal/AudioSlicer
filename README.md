@@ -67,7 +67,7 @@ The following software has been used in the making of this script and the audio 
 * Audacity® 2.1.2
 
 ## History
-**Version 1.0.1** (2022.02.22): Added citation information.
+**Version 1.0.1** (2022.02.22): Added citation information.  
 **Version 1.0.0** (2022.01.22): Added repository to GitHub.
 
 ## Citation information
