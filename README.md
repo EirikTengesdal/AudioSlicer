@@ -67,6 +67,7 @@ The following software has been used in the making of this script and the audio 
 * Audacity® 2.1.2
 
 ## History
+**Version 1.0.1** (2022.02.22): Added citation information.
 **Version 1.0.0** (2022.01.22): Added repository to GitHub.
 
 ## Citation information
@@ -84,12 +85,14 @@ Example of BibTeX entry:
     doi		= {https://doi.org/10.5281/zenodo.5889527}
 }
 ```
+Please note that the following Concept DOI represents all of the versions of our record: https://doi.org/10.5281/zenodo.5889526
+You can choose to cite a specific version of the repository, which is the recommended practice. Check the Version DOI at Zenodo.
 
 ## Funding
 Part of this work has been funded by the Research Council of Norway project *Variation and Change in the Scandinavian Verb Phrase* (project number: 250755, PI: Ida Larsson).
 
 ## DOI
-[![DOI](https://zenodo.org/badge/450663804.svg)](https://zenodo.org/badge/latestdoi/450663804)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5889526.svg)](https://doi.org/10.5281/zenodo.5889526)
 
 ## License and copyright
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
