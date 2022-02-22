@@ -71,7 +71,7 @@ The following software has been used in the making of this script and the audio 
 **Version 1.0.0** (2022.01.22): Added repository to GitHub.
 
 ## Citation information
-Please cite the script if you use it. The following citation example could be used (but it should be customised according to relevant citation style in academic contexts):
+Please cite the script if you use it. The following citation example could be used (but it should be customised according to relevant citation style in academic contexts and version number):
 
 Tengesdal, Eirik and Moura, Marcel. 2022. AudioSlicer for Python (Version 1.0.0). [Software]. DOI: https://doi.org/10.5281/zenodo.5889527
 
@@ -85,8 +85,9 @@ Example of BibTeX entry:
     doi		= {https://doi.org/10.5281/zenodo.5889527}
 }
 ```
-Please note that the following Concept DOI represents all of the versions of our record: https://doi.org/10.5281/zenodo.5889526
-You can choose to cite a specific version of the repository, which is the recommended practice. Check the Version DOI at Zenodo.
+Please note that the following Concept DOI represents all of the versions of our record, and will currently resolve to the landing page of the latest version of our record: https://doi.org/10.5281/zenodo.5889526
+
+The recommended practice is to cite a specific version of the repository. Find the relevant Version DOI at Zenodo.
 
 ## Funding
 Part of this work has been funded by the Research Council of Norway project *Variation and Change in the Scandinavian Verb Phrase* (project number: 250755, PI: Ida Larsson).
