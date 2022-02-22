@@ -87,7 +87,7 @@ Example of BibTeX entry:
 ```
 Please note that the following Concept DOI represents all of the versions of our record, and will currently resolve to the landing page of the latest version of our record: https://doi.org/10.5281/zenodo.5889526
 
-The recommended practice is to cite a specific version of the repository. Find the relevant Version DOI at Zenodo.
+The recommended practice is to cite a specific version of the repository. Find the relevant Version DOI at Zenodo, for instance via the Concept DOI: https://doi.org/10.5281/zenodo.5889526
 
 ## Funding
 Part of this work has been funded by the Research Council of Norway project *Variation and Change in the Scandinavian Verb Phrase* (project number: 250755, PI: Ida Larsson).
