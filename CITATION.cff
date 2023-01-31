@@ -7,7 +7,7 @@ authors:
 - family-names: "Moura"
   given-names: "Marcel"
 title: "AudioSlicer for Python"
-version: 1.0.0
-doi: 10.5281/zenodo.5889527
+version: 1.0.1
+doi: 10.5281/zenodo.6230377
 date-released: 2022-01-22
 url: "https://github.com/EirikTengesdal/AudioSlicer"
